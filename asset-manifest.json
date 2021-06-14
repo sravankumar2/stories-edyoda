@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stories-edyoda/static/css/main.d9308488.chunk.css",
+    "main.css": "/stories-edyoda/static/css/main.68c20239.chunk.css",
     "main.js": "/stories-edyoda/static/js/main.dae5e349.chunk.js",
     "main.js.map": "/stories-edyoda/static/js/main.dae5e349.chunk.js.map",
     "runtime-main.js": "/stories-edyoda/static/js/runtime-main.507702fc.js",
@@ -10,13 +10,13 @@
     "static/js/3.28b911f1.chunk.js": "/stories-edyoda/static/js/3.28b911f1.chunk.js",
     "static/js/3.28b911f1.chunk.js.map": "/stories-edyoda/static/js/3.28b911f1.chunk.js.map",
     "index.html": "/stories-edyoda/index.html",
-    "static/css/main.d9308488.chunk.css.map": "/stories-edyoda/static/css/main.d9308488.chunk.css.map",
+    "static/css/main.68c20239.chunk.css.map": "/stories-edyoda/static/css/main.68c20239.chunk.css.map",
     "static/js/2.24eb7ce6.chunk.js.LICENSE.txt": "/stories-edyoda/static/js/2.24eb7ce6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.507702fc.js",
     "static/js/2.24eb7ce6.chunk.js",
-    "static/css/main.d9308488.chunk.css",
+    "static/css/main.68c20239.chunk.css",
     "static/js/main.dae5e349.chunk.js"
   ]
 }
